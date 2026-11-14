@@ -6,10 +6,11 @@
 
 ### سطح مكتب منظّم، خفيف، ومفيد — لويندوز 10 و 11
 
-[![أحدث نسخة](https://img.shields.io/github/v/release/Official-Abode/ninja-desktop?label=%D8%A3%D8%AD%D8%AF%D8%AB%20%D9%86%D8%B3%D8%AE%D8%A9&style=for-the-badge&color=38BDF8&labelColor=13161E)](https://github.com/Official-Abode/ninja-desktop/releases/latest)
-[![التحميلات](https://img.shields.io/github/downloads/Official-Abode/ninja-desktop/total?label=%D8%AA%D8%AD%D9%85%D9%8A%D9%84&style=for-the-badge&color=10B981&labelColor=13161E)](https://github.com/Official-Abode/ninja-desktop/releases)
+<!-- ponytail: badge labels stay English, shields.io can't join Arabic letters -->
+[![Version](https://img.shields.io/github/v/release/Official-Abode/ninja-desktop?label=Version&style=for-the-badge&color=38BDF8&labelColor=13161E)](https://github.com/Official-Abode/ninja-desktop/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Official-Abode/ninja-desktop/total?label=Downloads&style=for-the-badge&color=10B981&labelColor=13161E)](https://github.com/Official-Abode/ninja-desktop/releases)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0EA5E9?style=for-the-badge&logo=windows&labelColor=13161E)
-![مجاني](https://img.shields.io/badge/%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-8B5CF6?style=for-the-badge&labelColor=13161E)
+![Free](https://img.shields.io/badge/Price-Free-8B5CF6?style=for-the-badge&labelColor=13161E)
 
 **[⬇️ تحميل البرنامج](https://github.com/Official-Abode/ninja-desktop/releases/latest)** &nbsp;·&nbsp; **[🌐 الموقع](https://desktop.subshub.net)** &nbsp;·&nbsp; **[📝 سجل التحديثات](https://desktop.subshub.net/changelog.php)**
 
